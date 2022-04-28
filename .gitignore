@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+.qmake.stash
+debug/OpenDMX.pdb
+Makefile
+Makefile.Debug
+Makefile.Release
+OpenDMX.pro.user
